@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lcpoutas
-- 👀 I’m interested in fullstack development, blockchain and quantum computing
-- 🌱 I’m currently learning fullstack development
-- 💞️ I’m looking to collaborate on fullstack and blockchain development
+- 👀 I’m interested in artificial inteligence, data science and quantum computing
+- 🌱 I’m currently learning artificial intelignece and data science
+- 💞️ I’m looking to collaborate on IA and datascience proyects
 - 📫 How to reach me lcpoutas@gmail.com
 
 <!---
