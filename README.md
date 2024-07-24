@@ -1,5 +1,5 @@
-- 👋 Hi! I'm a technology enthusiast with a background in Chemistry, currently training in AI and Data Science.
-- I have a strong interest in Machine Learning, Natural Language Processing, and Computer Vision.
+👋 Hi! I'm a technology enthusiast with a background in Chemistry, currently training in AI and Data Science.
+I have a strong interest in Machine Learning, Natural Language Processing, and Computer Vision.
 
 🔬 Chemist: Bringing analytical and methodical skills to AI and data science projects.
 
@@ -13,8 +13,9 @@
     
 🌱 Lifelong Learner: Committed to continuous learning and collaboration on innovative projects.
 
-- Excited to connect and collaborate with fellow tech enthusiasts!
 - 📫 How to reach me lcpoutas@gmail.com
+
+Excited to connect and collaborate with fellow tech enthusiasts!
 
 <!---
 lcpoutas/lcpoutas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
